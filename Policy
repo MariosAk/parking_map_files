@@ -1,79 +1,122 @@
-Privacy Policy
-This privacy policy applies to the ProThesi app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+# Privacy Policy
 
+## Overview
 
-Information Collection and Use
-The Application collects information when you download and use it. This information may include information such as
+This privacy policy applies to the **ProThesi app** (the "Application") for mobile devices created by our Service Provider as a Free service.
 
-Your device's Internet Protocol address (e.g. IP address)
-The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-The time spent on the Application
-The operating system you use on your mobile device
+---
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+## Information Collection and Use
 
-Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+### Automatically Collected Information
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+When you download and use the Application, we collect the following information:
 
+- **Internet Protocol (IP) Address** - Your device's IP address
+- **Usage Data** - Pages visited, visit times, dates, and time spent on each page
+- **App Duration** - Total time spent using the Application
+- **Device Information** - Operating system used on your mobile device
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+### Location Data
 
+The Application collects your device's location to provide enhanced features:
 
-Third Party Access
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+- **Geolocation Services** - Personalized content, relevant recommendations, and location-based services
+- **Analytics & Improvements** - Aggregated and anonymized location data helps us analyze user behavior, identify trends, and improve overall performance
+- **Third-Party Services** - We may periodically transmit anonymized location data to external services to enhance the Application and optimize our offerings
 
+### Information You Provide
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+For a better experience, we may request certain personally identifiable information, including but not limited to:
 
-Google Play Services
-Google Analytics for Firebase
-Firebase Crashlytics
+- Email address
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+This information will be used to contact you with important updates, required notices, and marketing promotions.
 
-as required by law, such as to comply with a subpoena, or similar legal process;
-when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+---
 
-Opt-Out Rights
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+## Third-Party Services
 
+Only **aggregated, anonymized data** is transmitted to external services. We may share your information with trusted service providers who:
 
-Data Retention Policy
-Users can delete their account and associated personal data directly from within the Application by navigating to:
-Settings → Account → Delete Account
+- Work on our behalf
+- Do not have independent use of shared information
+- Have agreed to adhere to the terms of this privacy policy
 
-If a user cannot access the Application or prefers to request deletion externally, they can submit a deletion request via email:
-maappinnovations@gmail.com
+### Third-Party Privacy Policies
 
-Upon receiving a request, the Service Provider will delete all personal data such as email and the last recorded location, while certain anonymized data may be retained for statistical or legal purposes for up to 30 days.
+Our Application utilizes the following third-party services with their own privacy policies:
 
-Children
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 
+### Information Disclosure
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (maappinnovations@gmail.com) so that they will be able to take the necessary actions.
+We may disclose User Provided and Automatically Collected Information when:
 
+- Required by law (subpoena, court order, or similar legal process)
+- We believe disclosure is necessary to protect our rights, your safety, or the safety of others
+- Investigating fraud or responding to government requests
+- Sharing with trusted service providers under confidentiality agreements
 
-Security
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+---
 
+## User Rights & Data Deletion
 
-Changes
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+### Opt-Out Rights
 
+You can stop all data collection by simply uninstalling the Application using standard uninstall processes available on your mobile device.
 
-This privacy policy is effective as of 2024-11-01
+### Data Retention & Deletion
 
+**To delete your account and associated personal data:**
 
-Your Consent
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+1. Open the Application
+2. Navigate to **Settings → Account → Delete Account**
 
+**If you cannot access the Application:**
 
-Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at maappinnovations@gmail.com.
+Submit a deletion request via email to: **maappinnovations@gmail.com**
 
-This privacy policy page was generated by App Privacy Policy Generator
+Upon receiving your request, we will delete all personal data (email, last recorded location, etc.). However, certain anonymized data may be retained for statistical or legal purposes.
+
+---
+
+## Children's Privacy
+
+The Application does not knowingly solicit data from or market to children under the age of **13**.
+
+We do not knowingly collect personally identifiable information from children under 13 years of age. If we become aware that a child under 13 has provided us with personal data, we will promptly delete such information.
+
+---
+
+## Security
+
+The Service Provider is committed to safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect all information we collect.
+
+---
+
+## Policy Updates
+
+This Privacy Policy may be updated from time to time. We will notify you of any changes by updating this page with the new Privacy Policy. We recommend reviewing this policy periodically for any updates.
+
+**Last Updated:** 2024-11-01
+
+---
+
+## Your Consent
+
+By using the Application, you consent to the processing of your information as set forth in this Privacy Policy, as may be amended by us in the future.
+
+---
+
+## Contact Us
+
+If you have any questions regarding privacy while using the Application or have questions about our practices, please contact us:
+
+📧 **Email:** maappinnovations@gmail.com
+
+---
+
+*This privacy policy page was generated by App Privacy Policy Generator*
