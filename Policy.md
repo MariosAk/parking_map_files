@@ -50,6 +50,9 @@ Our Application utilizes the following third-party services with their own priva
 - [Google Play Services](https://www.google.com/policies/privacy/)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy)
+- [Grafana Labs](https://grafana.com/legal/privacy-policy/)
+- [Redis](https://redis.io/legal/privacy-policy/)
+- [Render](https://render.com/privacy)
 
 ### Information Disclosure
 
